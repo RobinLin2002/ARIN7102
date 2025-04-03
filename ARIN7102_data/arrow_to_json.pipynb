@@ -1,0 +1,12 @@
+import pyarrow as pa
+import json
+
+# 读取 .arrow 文件
+table = pa.ipc.RecordBatchFileReader("/home/Data1/ziyue/ckpt/FreedomIntelligence___huatuo_encyclopedia_qa/default/0.0.0/2989899dd5bed83cf9bd17cf9fff9889705436e2/huatuo_encyclopedia_qa-test.arrow").read_all()
+
+# 转换为 JSON
+json_data = table.to_pandas().to_json(orient="records", force_ascii=False)
+
+# 保存到文件
+with open("output.json", "w", encoding="utf-8") as f:
+    f.write(json_data)
