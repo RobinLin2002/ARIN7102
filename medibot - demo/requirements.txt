@@ -1,0 +1,14 @@
+faiss-cpu==1.11.0
+langchain==0.3.24
+langchain-community==0.3.22
+langchain-core==0.3.56
+langchain-huggingface==0.1.2
+langchain-text-splitters==0.3.8
+gradio==5.27.0
+sentence-transformers==4.1.0
+pypdf==5.4.0
+bitsandbytes
+transformers
+accelerate
+scikit-learn
+typer
