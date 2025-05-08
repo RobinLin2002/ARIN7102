@@ -1,0 +1,12 @@
+    "langchain",
+    "langchain_community",
+    "langchain-huggingface",
+    "sentence_transformers",
+    "pypdf",
+    "faiss-cpu",
+    "bitsandbytes",
+    "transformers",
+    "accelerate",
+    "scikit-learn",
+    "gradio",
+    "typer==0.10.0"
