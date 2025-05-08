@@ -1,3 +1,3 @@
 # ARIN7102
 - code for medibot-demo is in the folder 'medibot-demo', and you can check the video for convenience
-  ![medibot](./medibot-demo/MyVideo_1.gif)
+  ![medibot](https://github.com/RobinLin2002/ARIN7102/blob/main/medibot%20-%20demo/MyVideo_1.gif)
