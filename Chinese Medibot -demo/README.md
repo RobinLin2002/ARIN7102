@@ -276,9 +276,3 @@ streamlit run login.py
 
 问题：需要人工进行数据标注。
 
-## 联系方式
-
-如果您的复现遇到了困难，请随时联系！
-
-邮箱：zeromakers@outlook.com
-
