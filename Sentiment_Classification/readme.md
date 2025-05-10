@@ -1,5 +1,5 @@
-## Project Description  
-This project compares multiple machine learning, deep learning, and large language model (LLM) approaches for text classification. It includes models such as **Bayesian Classifier**, **XGBoost**, **Random Forest**, **LSTM**, **BiLSTM**, **BERT**, and **LLaMA3-8B (Instruct + LoRA)**. The repository also provides data preprocessing tools and result visualization.
+## Medical Dialogue Sentiment Analysis
+This project focuses on sentiment analysis of medical dialogues, comparing multiple machine learning, deep learning, and large language model (LLM) approaches. It includes models such as **Bayesian Classifier**, **XGBoost**, **Random Forest**, **LSTM**, **BiLSTM**, **BERT**, and **LLaMA3-8B (Instruct + LoRA)**. The repository also provides data preprocessing tools and result visualization.
 
 ---
 
