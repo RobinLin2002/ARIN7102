@@ -14,8 +14,8 @@ python xgboost_code.py   # XGBoost
 python lstm.py           # LSTM
 python bilstm.py         # BiLSTM
 
-jupyter notebook bert_training.ipynb # bert
-jupyter notebook llama3.ipynb  # LLaMA3-8B (Instruct + LoRA)
+jupyter notebook bert_training.ipynb   # bert
+jupyter notebook llama3.ipynb          # LLaMA3-8B (Instruct + LoRA)
 
 ```
 
